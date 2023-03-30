@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;500;600;700&family=Manrope:wght@400;500;600;700&family=Monoton&family=Montserrat:wght@400;500;700&family=Oxanium:wght@500;600;700&family=Padauk:wght@400;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
